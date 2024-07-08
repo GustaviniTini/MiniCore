@@ -5,7 +5,7 @@
 Se tienen tres tablas: empleados, proyectos y tareas. Un empleado puede estar asignado a varias tareas y cada tarea está asociada a un proyecto específico. Las tareas tienen una fecha de inicio, una duración estimada y un estado (en progreso o completado).
 
 El objetivo es gestionar y filtrar las tareas según su estado y fecha, mostrando aquellas que están en progreso con retraso, en progreso sin retraso y completadas.
-![MiniCore](![image](https://github.com/GustaviniTini/MiniCore/assets/123056701/ffbdddc1-27c1-4c0c-8f21-f54af410eb2e))
+![MiniCore](![image](![git](https://github.com/GustaviniTini/MiniCore/assets/123056701/e50fd851-37fa-4567-b863-c003333a9cd0))
 
 ## Tecnologías utilizadas
 
@@ -18,15 +18,15 @@ El objetivo es gestionar y filtrar las tareas según su estado y fecha, mostrand
 
 1. Para instalar las dependencias en el backend y frontend, se debe ejecutar en la terminal el comando:
    ```bash
-  npm install
+   npm install
 
 2. Para ejecutar el backend, se debe ingresar a la terminal el comando:
    ```bash
-  npm start
+   npm start
 
 3. Para ejecutar el frontend, se debe ingresar a la terminal el comando:
    ```bash
-  npm start
+   npm start
 
 
 ## Tutoriales de ayuda
