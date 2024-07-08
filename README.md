@@ -32,7 +32,7 @@ El objetivo es gestionar y filtrar las tareas según su estado y fecha, mostrand
 ## Tutoriales de ayuda
 
 - [CRUD](https://www.youtube.com/watch?v=dJbd7BYofp4&t=100s&pp=ygUZbWVybiBzdGFjayBjcnVkIGZhenQgY29kZQ%3D%3D)
-- [Creación de un login en MERN](https://www.youtube.com/watch?v=NmkY4JgS21A&t=13884s&pp=ygUPbWVybiBzdGFjayBjcnVk))
+- [Creación de un login en MERN](https://www.youtube.com/watch?v=NmkY4JgS21A&t=13884s&pp=ygUPbWVybiBzdGFjayBjcnVk)
 - [Tutorial Para Deployar](https://www.youtube.com/watch?v=-PHi1w1elxU)
 
 ## Contacto
