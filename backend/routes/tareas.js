@@ -63,6 +63,9 @@ router.get('/filtrar', async (req, res) => {
       fechaEstimadaFin.setDate(fechaEstimadaFin.getDate() + tarea.diasEstimados);
 
       const hoy = new Date();
+      hoy.setHours(0, 0, 0, 0); // Asegurar que la hora sea 00:00:00
+      fechaEstimadaFin.setHours(0, 0, 0, 0); // Asegurar que la hora sea 00:00:00
+
       let diasRetraso = 0;
 
       if (hoy > fechaEstimadaFin && tarea.estado === 'In progress') {
