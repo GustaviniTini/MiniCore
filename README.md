@@ -5,7 +5,7 @@
 Se tienen tres tablas: empleados, proyectos y tareas. Un empleado puede estar asignado a varias tareas y cada tarea está asociada a un proyecto específico. Las tareas tienen una fecha de inicio, una duración estimada y un estado (en progreso o completado).
 
 El objetivo es gestionar y filtrar las tareas según su estado y fecha, mostrando aquellas que están en progreso con retraso, en progreso sin retraso y completadas.
-![MiniCore](![![git](https://github.com/GustaviniTini/MiniCore/assets/123056701/1566aa4b-3cdc-447c-964b-cc842d3f7f8d)])
+
 
 ## Tecnologías utilizadas
 
