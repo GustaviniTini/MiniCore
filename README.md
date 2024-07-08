@@ -5,7 +5,7 @@
 Se tienen tres tablas: empleados, proyectos y tareas. Un empleado puede estar asignado a varias tareas y cada tarea está asociada a un proyecto específico. Las tareas tienen una fecha de inicio, una duración estimada y un estado (en progreso o completado).
 
 El objetivo es gestionar y filtrar las tareas según su estado y fecha, mostrando aquellas que están en progreso con retraso, en progreso sin retraso y completadas.
-![MiniCore](![image](![git](https://github.com/GustaviniTini/MiniCore/assets/123056701/e50fd851-37fa-4567-b863-c003333a9cd0))
+![MiniCore](![![git](https://github.com/GustaviniTini/MiniCore/assets/123056701/1566aa4b-3cdc-447c-964b-cc842d3f7f8d)])
 
 ## Tecnologías utilizadas
 
@@ -32,7 +32,7 @@ El objetivo es gestionar y filtrar las tareas según su estado y fecha, mostrand
 ## Tutoriales de ayuda
 
 - [CRUD](https://www.youtube.com/watch?v=dJbd7BYofp4&t=100s&pp=ygUZbWVybiBzdGFjayBjcnVkIGZhenQgY29kZQ%3D%3D)
-- [Creación de un login en MERN]([https://expressjs.com/en/starter/installing.html](https://www.youtube.com/watch?v=NmkY4JgS21A&t=13884s&pp=ygUPbWVybiBzdGFjayBjcnVk))
+- [Creación de un login en MERN](https://www.youtube.com/watch?v=NmkY4JgS21A&t=13884s&pp=ygUPbWVybiBzdGFjayBjcnVk))
 - [Tutorial Para Deployar](https://www.youtube.com/watch?v=-PHi1w1elxU)
 
 ## Contacto
